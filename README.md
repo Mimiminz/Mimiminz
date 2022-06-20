@@ -36,3 +36,9 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
+<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Mimiminz&&style=flat-square"/>
+</div>  
+  
+<br/>  
