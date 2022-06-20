@@ -32,6 +32,7 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [test posting](https://mimiminz.github.io//devlog/test/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
