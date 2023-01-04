@@ -25,7 +25,10 @@
 #### 📊 Recent My Activity..
 <hr/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiminz&repo=DBDBD)](https://github.com/Mimiminz/DBDBD) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiminz&repo=Baekjoon)](https://github.com/Mimiminz/Baekjoon)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiminz&repo=HTML-css-test)](https://github.com/Mimiminz/HTML-css-test)
+
 
 <br/>
 
