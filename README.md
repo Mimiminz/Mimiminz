@@ -26,8 +26,8 @@
 <hr/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiminz&repo=Baekjoon)](https://github.com/Mimiminz/Baekjoon)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiminz&repo=HTML-css-test)](https://github.com/Mimiminz/HTML-css-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiminz&repo=Javascript-practice)](https://github.com/Mimiminz/Javascript-practice)
 
 
 <br/>
