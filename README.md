@@ -2,21 +2,17 @@
 <hr/>
 
 <details>
-<summary>😎 <b>developers/Mimiminz_info.json</b></summary>
+<summary>😎 <b>developers/Mimiminz_info.js</b></summary>
 <div markdown="1">
 	
-  ```json
-  {
-    "apiVersion": "2023",
-    "nationality": "Korea🇰🇷🇰🇷",
-    "gender": "Female",
-    "language": { 
-	    "most": "javascript",
-	    "sometimes": ["python"]
-    },
-    "etc": {
-	    "mbti": "istp"
-    }
+  ```javascript
+  let JoMinJu = {
+	name = '조민주',
+	age = 24,
+	nationality = 'Korea',
+	gender = 'Female',
+	skills = ['HTML', 'CSS', 'React',
+	'Javascript', 'Typescript']
   }
   ```
 </div>
