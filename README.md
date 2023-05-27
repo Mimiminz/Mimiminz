@@ -32,7 +32,7 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Naver api Map](https://velog.io/@pida6716)
+- [test posting](https://mimiminz.github.io//devlog/test/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
