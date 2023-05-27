@@ -12,7 +12,7 @@
 	nationality = 'Korea',
 	gender = 'Female',
 	skills = ['HTML', 'CSS', 'React',
-	'Javascript', 'Typescript']
+	'Javascript', 'Typescript', 'Dart']
   }
   ```
 </div>
@@ -32,7 +32,7 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [test posting](https://mimiminz.github.io//devlog/test/)
+- [Flutter Naver api Map](https://velog.io/@pida6716)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
