@@ -26,16 +26,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mimiminz&mode=weekly&card_width=450&hide_border=true&background=020715&stroke=8A2BE2&ring=8A2BE2&fire=9400D3&excludeDaysLabel=6A5ACD&sideLabels=928AFA&currStreakNum=9C31FF&sideNums=9C31FF&dates=928AFA&currStreakLabel=928AFA)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiminz&layout=compact&hide_border=true&bg_color=020715&card_width=350&text_color=E6E5FA&title_color=6A5ACD)
 
-
-<br/>
-
-#### 📕 Latest Blog Posts  
-<hr/>
-
-<!-- BLOG-POST-LIST:START -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pida6716&color=dark)](https://github.com/Mimiminz/velog-readme-stats)
-<!-- BLOG-POST-LIST:END -->  
-
 <hr/>
 <br/>  
 <div align="center">
