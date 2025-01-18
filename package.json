@@ -1,0 +1,17 @@
+{
+  "name": "mimiminz",
+  "version": "1.0.0",
+  "description": "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&weight=400&size=60&duration=5001&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&height=300&lines=Hello+World!+I'm+Minz+👀;)](https://git.io/typing-svg)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
