@@ -13,8 +13,12 @@
 
 [![Mimiminz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mimiminz&bg_color=020715&color=8A2BE2&line=8A2BE2&point=8977ad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mimiminz&mode=weekly&card_width=450&hide_border=true&background=020715&stroke=8A2BE2&ring=8A2BE2&fire=9400D3&excludeDaysLabel=6A5ACD&sideLabels=928AFA&currStreakNum=9C31FF&sideNums=9C31FF&dates=928AFA&currStreakLabel=928AFA)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiminz&layout=compact&hide_border=true&bg_color=020715&card_width=350&text_color=E6E5FA&title_color=6A5ACD)
+<div align="center">
+
+[![Mimiminz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimiminz&show_icons=true&bg_color=020715&title_color=8A2BE2&icon_color=928AFA&text_color=fdfdfd&rank_icon=github&hide_border=true&text_bold=false)](https://github.com/Mimiminz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiminz&layout=compact&hide_border=true&bg_color=020715&card_width=350&text_color=E6E5FA&title_color=6A5ACD&langs_count=8)
+
+</div>
 
 <hr/>
 <br/>  
