@@ -45,7 +45,6 @@ let text = `
 <div align="center">
   <h2>MEMORIES</h2>
 
-</div>
 `;
 
 // rss-parser 생성
