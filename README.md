@@ -38,5 +38,4 @@
 <div align="center">
   <h2>MEMORIES</h2>
 
-</div>
 <div><p><a href='https://ciaom.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%EC%A0%84%EB%9E%B5' target='_blank'>메모리 관리 전략</a></p><p><a href='https://ciaom.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94-%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C-%EA%B8%B0%EB%B2%95' target='_blank'>프로세스 동기화 - 상호배제 기법</a></p><p><a href='https://ciaom.tistory.com/entry/%EB%B0%B1%EC%A4%80-9935-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8F%AD%EB%B0%9C' target='_blank'>백준 9935 문자열 폭발</a></p><p><a href='https://ciaom.tistory.com/entry/SSEServer-Sent-Event-%EC%84%9C%EB%B2%84%EC%95%BC-%EB%84%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A4%98' target='_blank'>SSE(Server-Sent Event) : 서버야 네가 알려줘</a></p><p><a href='https://ciaom.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-Presigned-URL-%EC%97%85%EB%A1%9C%EB%93%9C' target='_blank'>프론트엔드를 위한 Presigned URL 업로드</a></p></div></div>
