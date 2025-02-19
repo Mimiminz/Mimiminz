@@ -6,12 +6,7 @@ import Parser from 'rss-parser';
  * @type {string}
  */
 let text = `
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&weight=400&size=60&duration=5001&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&height=300&lines=Hello+World!+I'm+Minz+👀;Striving+for+learnable+code+🧐;)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&weight=400&size=60&duration=5001&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&height=250&lines=Hello+World!+I'm+Minz+👀;Striving+for+learnable+code+🧐;)](https://git.io/typing-svg)
 
 <div align="center">
   <h2>📚TECH STACK📚</h2>
@@ -31,13 +26,13 @@ let text = `
 <div align="center">
   <h2>GITHUB STATE</h2>
 
-[![Mimiminz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mimiminz&bg_color=020715&color=8A2BE2&line=8A2BE2&point=8977ad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mimiminz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mimiminz&bg_color=02071500&color=8A2BE2&line=8A2BE2&point=9370db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Mimiminz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimiminz&show_icons=true&bg_color=020715&title_color=8A2BE2&icon_color=928AFA&text_color=fdfdfd&rank_icon=github&hide_border=true&text_bold=false)](https://github.com/Mimiminz/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiminz&layout=compact&hide_border=true&bg_color=020715&card_width=350&text_color=E6E5FA&title_color=6A5ACD&langs_count=8)
+[![Mimiminz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimiminz&show_icons=true&bg_color=02071500&title_color=663399&icon_color=928AFA&text_color=6a5acd&rank_icon=github&hide_border=true&text_bold=false)](https://github.com/Mimiminz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiminz&layout=compact&hide_border=true&bg_color=02071500&card_width=350&text_color=6a5acd&title_color=663399&langs_count=8)
 
-<img src="https://komarev.com/ghpvc/?username=Mimiminz&&style=flat-square&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=Mimiminz&&style=flat-square&color=6a5acd"/>
 </div>  
 
 <br/>
